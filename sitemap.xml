@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://shih-tzu-care.github.io/</loc><lastmod>2026-10-06</lastmod><priority>1.0</priority></url>
   <url><loc>https://shih-tzu-care.github.io/blog.html</loc><lastmod>2026-10-06</lastmod><priority>0.5</priority></url>
-  <url><loc>https://shih-tzu-care.github.io/care.html</loc><lastmod>2026-10-06</lastmod><priority>0.5</priority></url>
-  <url><loc>https://shih-tzu-care.github.io/about.html</loc><lastmod>2026-10-06</lastmod><priority>0.5</priority></url>
-  <url><loc>https://shih-tzu-care.github.io/contact.html</loc><lastmod>2026-10-06</lastmod><priority>0.5</priority></url>
-  <url><loc>https://shih-tzu-care.github.io/privacy.html</loc><lastmod>2026-10-06</lastmod><priority>0.5</priority></url>
-  <url><loc>https://shih-tzu-care.github.io/editorial-policy.html</loc><lastmod>2026-10-06</lastmod><priority>0.5</priority></url>
-  <url><loc>https://shih-tzu-care.github.io/disclosure.html</loc><lastmod>2026-10-06</lastmod><priority>0.5</priority></url>
-  <url><loc>https://shih-tzu-care.github.io/sitemap.html</loc><lastmod>2026-10-06</lastmod><priority>0.5</priority></url>
+  <url><loc>https://shih-tzu-care.github.io/care.html</loc><lastmod>2026-10-03</lastmod><priority>0.5</priority></url>
+  <url><loc>https://shih-tzu-care.github.io/about.html</loc><lastmod>2026-10-05</lastmod><priority>0.5</priority></url>
+  <url><loc>https://shih-tzu-care.github.io/contact.html</loc><lastmod>2026-10-04</lastmod><priority>0.5</priority></url>
+  <url><loc>https://shih-tzu-care.github.io/privacy.html</loc><lastmod>2026-10-03</lastmod><priority>0.5</priority></url>
+  <url><loc>https://shih-tzu-care.github.io/editorial-policy.html</loc><lastmod>2026-10-05</lastmod><priority>0.5</priority></url>
+  <url><loc>https://shih-tzu-care.github.io/disclosure.html</loc><lastmod>2026-10-04</lastmod><priority>0.5</priority></url>
+  <url><loc>https://shih-tzu-care.github.io/sitemap.html</loc><lastmod>2026-10-01</lastmod><priority>0.5</priority></url>
   <url><loc>https://shih-tzu-care.github.io/shih-tzu-puppy-potty-training-timeline.html</loc><lastmod>2026-05-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://shih-tzu-care.github.io/how-often-to-groom-a-shih-tzu-face.html</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://shih-tzu-care.github.io/shih-tzu-eye-problems-how-common.html</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
@@ -56,6 +56,11 @@
   <url>
     <loc>https://shih-tzu-care.github.io/second-dog-for-shih-tzu.html</loc>
     <lastmod>2026-11-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shih-tzu-care.github.io/shih-tzu-winter-clothes.html</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
